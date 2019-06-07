@@ -1,0 +1,50 @@
+{
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "prettier.singleQuote": true,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDelete": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "javascript": "html"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "One Dark Pro Vivid",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "terminal.background": "#001100",
+    "terminal.foreground": "#00BB00",
+    "terminalCursor.background": "#00BB00",
+    "terminalCursor.foreground": "#00BB00",
+    "terminal.ansiBlack": "#001100",
+    "terminal.ansiBlue": "#009900",
+    "terminal.ansiBrightBlack": "#007700",
+    "terminal.ansiBrightBlue": "#009900",
+    "terminal.ansiBrightCyan": "#005500",
+    "terminal.ansiBrightGreen": "#00BB00",
+    "terminal.ansiBrightMagenta": "#00BB00",
+    "terminal.ansiBrightRed": "#007700",
+    "terminal.ansiBrightWhite": "#00FF00",
+    "terminal.ansiBrightYellow": "#007700",
+    "terminal.ansiCyan": "#005500",
+    "terminal.ansiGreen": "#00BB00",
+    "terminal.ansiMagenta": "#00BB00",
+    "terminal.ansiRed": "#007700",
+    "terminal.ansiWhite": "#00BB00",
+    "terminal.ansiYellow": "#007700"
+  }
+}
